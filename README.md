@@ -36,6 +36,7 @@
   
   </p>
 </div>
+
 → [Voltar ao topo](#topo)
 
 <div id="#resultado">
@@ -46,7 +47,8 @@
   </p>
 </div>
 <div align="center">
-  <img src="guiInicio.png" alt="tela de cadastro de clientes" width="600" height="500">
+  <img src="Images/guiInicio.png" alt="tela de cadastro de clientes" width="300" height="250">
+  <br>
   <br>
   </div>
 
@@ -55,7 +57,8 @@
 </div>
 
 <div align="center">
-  <img src="guiTeste.png" alt="tela de cadastro de clientes" width="600" height="500">
+  <img src="Images/guiTeste.png" alt="tela de cadastro de clientes" width="300" height="250">
+  <br>
   <br>
   </div>
   
@@ -64,7 +67,8 @@
 </div>
 
 <div align="center">
-  <img src="guiTeste2.png" alt="tela de cadastro de clientes" width="600" height="500">
+  <img src="Images/guiTeste2.png" alt="tela de cadastro de clientes" width="300" height="250">
+  <br>
   <br>
   </div>
   
@@ -73,7 +77,8 @@
 </div>
 
 <div align="center">
-  <img src="guiBD.png" alt="tela de cadastro de clientes" width="600" height="500">
+  <img src="Images/guiBD.png" alt="tela de cadastro de clientes" width="1000" height="650">
+  <br>
   <br>
   </div>
 
@@ -87,4 +92,3 @@
 
 </div>
 
-→ [Voltar ao topo](#topo)
